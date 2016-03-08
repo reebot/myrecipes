@@ -14,7 +14,7 @@
         "@searchLimit": 100
     },
     "general": {
-        "@stripws": false
+        "@stripws": true
     },
     "language": {
         "@eslintrc": "true",
